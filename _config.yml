@@ -1,16 +1,16 @@
 # Site settings
-title: Jekyll-Uno
+title: barbour.io
 description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno' 
-baseurl: '/jekyll-uno/'
+url: 'http://karl-barbour.github.io' 
+baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Karl Barbour'
+  email: karl@barbour.io
+  twitter_username: x
+  github_username:  karl-barbour
+  linkedin_username:  karlbarbour
 
 # Build settings
 destination: _site
