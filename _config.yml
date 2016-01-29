@@ -1,14 +1,13 @@
 # Site settings
 title: barbour.io
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://karl-barbour.github.io' 
+description: 'Personal playground and ramblings of Karl Barbour'
+url: 'http://blog.barbour.io' 
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 
 author:
   name: 'Karl Barbour'
   email: karl@barbour.io
-  twitter_username: x
   github_username:  karl-barbour
   linkedin_username:  karlbarbour
 

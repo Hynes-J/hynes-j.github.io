@@ -3,7 +3,7 @@ layout: post
 title:  "Hello world"
 date:   2016-01-29 11:46:00
 categories: helloworld
-tags: [jekyll]
+tags: [helloworld]
 ---
 This is the first post on `barbour.io` to say hello to the universe. Eventually, this will disappear and I'm using it purely for testing.
 
