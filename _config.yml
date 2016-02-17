@@ -1,6 +1,6 @@
 # Site settings
 title: hynes.barbour.io
-description: 'James Hynes is a loser'
+description: 'James Hynes Test Site'
 url: 'http://hynes.barbour.io' 
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
