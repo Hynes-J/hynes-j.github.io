@@ -1,6 +1,6 @@
 # Site settings
-title: barbour.io
-description: 'Personal playground and ramblings of Karl Barbour'
+title: hynes.barbour.io
+description: 'James Hynes is a loser'
 url: 'http://hynes.barbour.io' 
 baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
@@ -16,7 +16,7 @@ destination: _site
 paginate: 10
 permalink: /:year/:title/
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 kramdown:
   # use Github Flavored Markdown
