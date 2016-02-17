@@ -6,10 +6,10 @@ baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 
 author:
-  name: 'Karl Barbour'
+  name: 'James Hynes'
   email: karl@barbour.io
-  github_username:  karl-barbour
-  linkedin_username:  karlbarbour
+  github_username:  Hynes-J
+  
 
 # Build settings
 destination: _site
